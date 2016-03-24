@@ -1,0 +1,5 @@
+e:\_Dev\ShutdownNASBox\ShutdownNASBox\bin\Release\ShutdownNASBox.exe
+e:\_Dev\ShutdownNASBox\ShutdownNASBox\bin\Release\ShutdownNASBox.pdb
+e:\_Dev\ShutdownNASBox\ShutdownNASBox\obj\x86\Release\ResolveAssemblyReference.cache
+e:\_Dev\ShutdownNASBox\ShutdownNASBox\obj\x86\Release\ShutdownNASBox.exe
+e:\_Dev\ShutdownNASBox\ShutdownNASBox\obj\x86\Release\ShutdownNASBox.pdb
